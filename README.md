@@ -6,17 +6,17 @@
 
 <!--Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on Icycoide projects
+- 🔭 I’m currently working on TylkoLinux, ArctineOS and Ambiant-MATE-ng
 - 🌱 I’m currently learning Lua
 <!--- 👯 I’m looking to collaborate on ...-->
 <!--- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about french, german, icycoide projects etc.
 - 📫 How to reach me:
   - on matrix
-    - @kevadesu:envs.net (main)
+    - @kevadesu:gitter.im
     - @kevadesu:matrix.org (not often used)
   - on discord
-    - kevadesu#9686
+    - kevadesu
   - by email
     - kevadesu@envs.net
 - 😄 Pronouns: any
